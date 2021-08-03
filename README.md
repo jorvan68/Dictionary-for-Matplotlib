@@ -1,1 +1,1 @@
-# Dictionary-for-Matplotlib
+Dictionary for Matplotlib On Progress Development
